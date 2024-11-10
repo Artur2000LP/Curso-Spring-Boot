@@ -1,3 +1,4 @@
+
 # Aprendiendo Spring Boot 🚀
 
 Este proyecto tiene como objetivo aprender y practicar Spring Boot con tecnologías como Hibernate, JWT y APIs REST. A continuación, se muestran algunas capturas de pantalla de las funcionalidades implementadas.
@@ -39,4 +40,4 @@ Una vista del panel de administración donde los usuarios registrados pueden ser
 
 ---
 
-¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en abrir un *issue*.
+🧑‍💻¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en abrir un *issue*.
